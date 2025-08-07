@@ -56,4 +56,4 @@ Interactive dashboards were created to allow users to filter data, view key perf
 
 **Aman Chouhan**  
 Data Analyst | Visualization Enthusiast  
-🔗 [GitHub](https://github.com/Amanchouhan2708/data-analysis)
+🔗 [GitHub](https://github.com/Amanchouhan2708/Mental-Health-Data-Analysis-of-University-Students)
